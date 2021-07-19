@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8900"/>
+      <stop offset="1" stop-color="#cb5c06"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="15.914" height="4.158" rx="2.079" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_89" data-name="Group 89" transform="translate(-58 -165)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="29.5" cy="29.5" r="29.5" transform="translate(58 165)" fill="#1b5150"/>
+    <path id="Path_78" data-name="Path 78" d="M632.958,393.916h-2.942A2.016,2.016,0,0,1,628,391.9v-5.888A2.02,2.02,0,0,1,630.016,384h2.942Z" transform="translate(-559 -193.582)" fill="#841a1f"/>
+    <path id="Path_79" data-name="Path 79" d="M728.946,393.916H726V384h2.946a2.016,2.016,0,0,1,2.012,2.016V391.9a2.016,2.016,0,0,1-2.012,2.012Z" transform="translate(-624.362 -193.582)" fill="#841a1f"/>
+    <path id="Union_1" data-name="Union 1" d="M6.693,35.694A6.693,6.693,0,0,1,0,29V13.748A6.693,6.693,0,0,1,6.693,7.056h7.4V0h2.9V7.056h6.988a6.693,6.693,0,0,1,6.693,6.693V29a6.693,6.693,0,0,1-6.693,6.693Z" transform="translate(72.346 174.346)" fill="#bebcbc"/>
+    <path id="Path_80" data-name="Path 80" d="M640,387" transform="translate(-567.695 -195.342)" fill="#c1272d"/>
+    <path id="Path_81" data-name="Path 81" d="M637,406" transform="translate(-565.934 -204.492)" fill="#c1272d"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="4.751" cy="4.751" r="4.751" transform="translate(75.146 186.081)" fill="#fff" stroke="#285754" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="4.751" cy="4.751" r="4.751" transform="translate(90.597 186.081)" fill="#fff" stroke="#285754" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="3" cy="3" r="3" transform="translate(85 171)" fill="url(#radial-gradient)"/>
+    <path id="Path_82" data-name="Path 82" d="M49.639,50.52,45.47,57.742h8.338Z" transform="translate(38.181 140.113)" fill="#841a1f"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="15.914" height="5.092" rx="2.546" transform="translate(79.928 200.954)" fill="#fff" stroke="#285754" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(79.928 201.438)" clip-path="url(#clip-path)">
+      <path id="Path_83" data-name="Path 83" d="M0,0H5.092V7.017H0Z" transform="translate(5.411 -1.299)" fill="none" stroke="#285754" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

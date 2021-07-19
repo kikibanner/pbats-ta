@@ -1,0 +1,118 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bgcolor {
+    background-color: #F7F7F7;
+}
+
+.buttonijo {
+    background-color: #2FB9B6;
+    color: white;
+    box-shadow: 2px 2px 8px #2FB9B6;
+}
+
+.bg-ijo {
+    background: #218f8d;
+    color: #F7F7F7;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.linkijo {
+    color: #2FB9B6;
+    text-decoration: none;
+}
+
+.imgsplash-bg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+}
+
+.imgsplash {
+    display: none;
+}
+
+.date {
+    font-family: 'Roboto Thin';
+    font-size: 14px;
+}
+
+.city {
+    font-family: 'Roboto light';
+    font-size: 14px;
+}
+
+.diagnose {
+    font-size: 16px;
+}
+
+.positive {
+    color: #FF505D;
+}
+
+.negative {
+    color: #00BFA5;
+}
+
+.hospital {
+    background: rgb(166,166,250);
+    background: linear-gradient(180deg, rgba(166,166,250,1) 0%, rgba(124,124,255,1) 100%);
+    box-shadow: 2px 2px 8px #9393FC;
+}
+
+.statistics {
+    background: rgb(177,240,93);
+    background: linear-gradient(180deg, rgba(177,240,93,1) 0%, rgba(159,212,88,1) 100%);
+    box-shadow: 2px 2px 8px #ACE85C;
+}
+
+.news {
+    background: rgb(255,157,72);
+    background: linear-gradient(180deg, rgba(255,157,72,1) 0%, rgba(241,129,31,1) 100%);
+    box-shadow: 2px 2px 8px #FA943A;
+}
+
+.card-test {
+    background: #2FB9B6;
+    box-shadow: 2px 2px 8px #2FB9B6;
+    color: white;
+    border-radius: 10px;
+}
+
+.teks {
+    font-size: 15px;
+}
+
+.hospital, .statistics, .news {
+    height: 120px;
+    border-radius: 15px;
+}
+
+.caption-icons {
+    text-align: center;
+}
+
+.history {
+    top:50%;
+}
+
+@media only screen and (max-width: 600px) {
+    .imgsplash {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 200px;
+    }
+    .imgsplash-bg {
+        display: none;
+    }
+    .hospital, .statistics, .news {
+        width: auto;
+        height: 80px;
+    }
+  }
